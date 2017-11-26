@@ -1,0 +1,57 @@
+html {
+    font-size: 12px;
+}
+
+
+
+.container {
+    height: 50px;
+    background-color: red;
+}
+.container-fluid {
+/*    height: 50px;*/
+    background-color: green;
+}
+.containerfluid .row .added {
+    height: 50px;
+    background-color: yellow;
+    margin-bottom: 10px;
+/*    margin-top: 10px;*/
+}
+.btn-another-font {
+    font-style: italic;
+}
+#carouselExampleIndicators {
+    height: 400px;
+}
+#carouselExampleIndicators-inner {
+    height: 100%;
+}
+#carouselExampleIndicators-inner,
+#carouselExampleIndicators-inner . carousel-item,
+#carouselExampleIndicators-inner . carousel-item img {
+    height: 100%;
+}
+#carouselExampleIndicators-inner . carousel-item . carousel-caption {
+    bottom: 50px;
+}
+#obrazek1 {
+    background: active url ("fioletowe-ogrodowy-agwin-kwiatki.jpeg");
+    background-size: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
